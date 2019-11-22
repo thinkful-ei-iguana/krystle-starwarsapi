@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "alias": "krystle-star-wars-app",
-    "name": "star-wars-app",
+    "name": "starwarsapi",
+    "alias": "starwarsapi-dlot8vekp.now.sh"
     "routes": [
         {
           "src": "^/static/(.*)",
